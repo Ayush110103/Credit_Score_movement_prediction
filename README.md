@@ -43,6 +43,9 @@ This established a **powerful, learnable signal** for the model, transforming th
   * The notebook provides a comprehensive analysis, including model evaluation on a hold-out test set.
   * **Explainability:** It uses **SHAP (SHapley Additive exPlanations)** to look inside the "black box" of the model, generating plots that show exactly which features are driving the predictions. This builds trust and uncovers deep insights.
 
+  ![1749827634850](image/README/1749827634850.png)
+* ![1749827657077](image/README/1749827657077.png)
+
 ## 3. How to Run the Project
 
 This project uses a stable Python 3.10 environment to ensure library compatibility.
